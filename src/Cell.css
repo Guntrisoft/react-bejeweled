@@ -1,0 +1,41 @@
+.cell {
+  background: rgb(100, 96, 69, .9);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cell:nth-child(2),
+.cell:nth-child(4),
+.cell:nth-child(6),
+.cell:nth-child(8),
+.cell:nth-child(9),
+.cell:nth-child(11),
+.cell:nth-child(13),
+.cell:nth-child(15),
+.cell:nth-child(18),
+.cell:nth-child(20),
+.cell:nth-child(22),
+.cell:nth-child(24),
+.cell:nth-child(25),
+.cell:nth-child(27),
+.cell:nth-child(29),
+.cell:nth-child(31),
+.cell:nth-child(34),
+.cell:nth-child(36),
+.cell:nth-child(38),
+.cell:nth-child(40),
+.cell:nth-child(41),
+.cell:nth-child(43),
+.cell:nth-child(45),
+.cell:nth-child(47),
+.cell:nth-child(50),
+.cell:nth-child(52),
+.cell:nth-child(54),
+.cell:nth-child(56),
+.cell:nth-child(57),
+.cell:nth-child(59),
+.cell:nth-child(61),
+.cell:nth-child(63) {
+  background-color: rgb(108, 106, 81, .9);
+}

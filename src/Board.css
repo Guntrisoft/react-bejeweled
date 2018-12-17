@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: url(http://www.clunyactivities.co.uk/wp-content/uploads/2017/09/XMAS-background.jpg)
+    no-repeat;
+  background-size: cover;
+}
+
+.board {
+  width: 700px;
+  height: 700px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(8, 12.5%);
+  grid-template-rows: auto;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.8);
+}
